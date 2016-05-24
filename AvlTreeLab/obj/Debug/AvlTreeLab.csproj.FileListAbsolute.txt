@@ -1,0 +1,6 @@
+C:\Users\ivanm\Desktop\Data Structures And Algorithms\Data Structures\Labs\07.AvlTree\8. AvlTree-Skeleton\AvlTreeLab\bin\Debug\AvlTreeLab.exe.config
+C:\Users\ivanm\Desktop\Data Structures And Algorithms\Data Structures\Labs\07.AvlTree\8. AvlTree-Skeleton\AvlTreeLab\bin\Debug\AvlTreeLab.exe
+C:\Users\ivanm\Desktop\Data Structures And Algorithms\Data Structures\Labs\07.AvlTree\8. AvlTree-Skeleton\AvlTreeLab\bin\Debug\AvlTreeLab.pdb
+C:\Users\ivanm\Desktop\Data Structures And Algorithms\Data Structures\Labs\07.AvlTree\8. AvlTree-Skeleton\AvlTreeLab\obj\Debug\AvlTreeLab.csprojResolveAssemblyReference.cache
+C:\Users\ivanm\Desktop\Data Structures And Algorithms\Data Structures\Labs\07.AvlTree\8. AvlTree-Skeleton\AvlTreeLab\obj\Debug\AvlTreeLab.exe
+C:\Users\ivanm\Desktop\Data Structures And Algorithms\Data Structures\Labs\07.AvlTree\8. AvlTree-Skeleton\AvlTreeLab\obj\Debug\AvlTreeLab.pdb

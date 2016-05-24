@@ -1,0 +1,8 @@
+C:\Users\ivanm\Desktop\Data Structures And Algorithms\Data Structures\Labs\07.AvlTree\8. AvlTree-Skeleton\AvlTreeTests\bin\Debug\AvlTreeTests.dll
+C:\Users\ivanm\Desktop\Data Structures And Algorithms\Data Structures\Labs\07.AvlTree\8. AvlTree-Skeleton\AvlTreeTests\bin\Debug\AvlTreeTests.pdb
+C:\Users\ivanm\Desktop\Data Structures And Algorithms\Data Structures\Labs\07.AvlTree\8. AvlTree-Skeleton\AvlTreeTests\bin\Debug\AvlTreeLab.exe
+C:\Users\ivanm\Desktop\Data Structures And Algorithms\Data Structures\Labs\07.AvlTree\8. AvlTree-Skeleton\AvlTreeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ivanm\Desktop\Data Structures And Algorithms\Data Structures\Labs\07.AvlTree\8. AvlTree-Skeleton\AvlTreeTests\bin\Debug\AvlTreeLab.pdb
+C:\Users\ivanm\Desktop\Data Structures And Algorithms\Data Structures\Labs\07.AvlTree\8. AvlTree-Skeleton\AvlTreeTests\obj\Debug\AvlTreeTests.csprojResolveAssemblyReference.cache
+C:\Users\ivanm\Desktop\Data Structures And Algorithms\Data Structures\Labs\07.AvlTree\8. AvlTree-Skeleton\AvlTreeTests\obj\Debug\AvlTreeTests.dll
+C:\Users\ivanm\Desktop\Data Structures And Algorithms\Data Structures\Labs\07.AvlTree\8. AvlTree-Skeleton\AvlTreeTests\obj\Debug\AvlTreeTests.pdb
